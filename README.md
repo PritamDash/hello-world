@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+
+Hi Humans!
+ Pritam here,I like Node.js
+ 
